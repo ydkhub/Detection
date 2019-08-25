@@ -1,0 +1,5 @@
+﻿  detection.cpp
+e:\future机器人战队\运动估计\2019年1月份进度\目标检测\目标检测\detection.cpp(48): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\future机器人战队\运动估计\2019年1月份进度\目标检测\目标检测\detection.cpp(49): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  目标检测.vcxproj -> E:\future机器人战队\运动估计\2019年1月份进度\目标检测\x64\Debug\目标检测.exe
+  目标检测.vcxproj -> E:\future机器人战队\运动估计\2019年1月份进度\目标检测\x64\Debug\目标检测.pdb (Full PDB)

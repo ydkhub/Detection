@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  resize_script.cpp
+  test.vcxproj -> E:\future机器人战队\运动估计\4月份\ex_picture\x64\Debug\resize_script.exe
+  test.vcxproj -> E:\future机器人战队\运动估计\4月份\ex_picture\x64\Debug\resize_script.pdb (Full PDB)
